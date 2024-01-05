@@ -23,7 +23,7 @@
 <img src="images/fig9.jpg"><br>
 <b>See video!</b><br><br>
 <b>5.4. Data and the analysis</b><br><br>
-<img src="images/fig10.png">
+<img src="images/fig10.png" width="300" height="400">
 <img src="images/fig11.png">
 <b>$Weight of KOH = Normality of KOH x Equivalent weight of KOH x Volume (VC –VO)</b><br><br>
 
@@ -40,7 +40,7 @@ A.	Note down the volume of standardized 0.5 N HCl required for the oil sample an
 B.	Calculate the weight of KOH required to saponify the taken oil. 
 C.	Calculate the saponification value. 
 
-<b>The saponification value of oil is 237.84 </b>
+<b>The saponification value of oil is 237.84</b>
 
 
 
