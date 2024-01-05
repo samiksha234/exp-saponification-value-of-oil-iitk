@@ -23,7 +23,7 @@
 <img src="images/fig9.jpg" width="700" height="300"><br>
 <b>See video!</b><br><br>
 <b>5.4. Data and the analysis</b><br><br>
-<img src="images/fig10.png" width="300" height="400">
+<img src="images/fig10.png" width="600" height="500">
 <img src="images/fig11.png">
 <b>$Weight of KOH = Normality of KOH x Equivalent weight of KOH x Volume (VC –VO)</b><br><br>
 
