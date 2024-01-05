@@ -20,7 +20,7 @@
 <img src="images/fig7.png" width="600" height="600"><br><br>
 <img src="images/fig8.png" width="600" height="400"><br>
 <b>5.3. Procedure in laboratory</b><br><br>
-<img src="images/fig9.jpg"><br>
+<img src="images/fig9.jpg" width="700" height="400"><br>
 <b>See video!</b><br><br>
 <b>5.4. Data and the analysis</b><br><br>
 <img src="images/fig10.png" width="300" height="400">
