@@ -18,7 +18,7 @@
 <img src="images/fig5.png" width="300" height="250"><br><br>
 <img src="images/fig6.png" width="250" height="250"><br><br>
 <img src="images/fig7.png" width="600" height="600"><br><br>
-<img src="images/fig8.png" width="500" height="400"><br>
+<img src="images/fig8.png" width="600" height="300"><br>
 <b>5.3. Procedure in laboratory</b><br>
 <img src="images/fig9.jpg"><br>
 <b>See video!</b><br><br>
