@@ -14,7 +14,7 @@
 11)	Phenolphthalein indicator<br><br>
 <b>5.2. Procedure in laboratory (diagram)</b><br><br>
 <img src="images/fig3.png" width="300" height="400"><br><br>
-<img src="images/fig4.png" width="200" height="300"><br>
+<img src="images/fig4.png" width="300" height="300"><br>
 <img src="images/fig5.png" width="300" height="400"><br>
 <img src="images/fig6.png" width="300" height="400"><br>
 <img src="images/fig7.png" width="300" height="400"><br><br>
