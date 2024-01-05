@@ -13,7 +13,7 @@
 10)	Hydrochloric acid (standardized and adjusted to 0.5 N)<br>
 11)	Phenolphthalein indicator<br><br>
 <b>5.2. Procedure in laboratory (diagram)</b><br><br>
-<img src="images/fig3.png"><br>
+<img src="images/fig3.png" width="300"height="400"><br>
 <img src="images/fig4.png"><br>
 <img src="images/fig5.png"><br>
 <img src="images/fig6.png"><br>
